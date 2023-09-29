@@ -161,7 +161,7 @@ CORS_ORIGIN_WHITELIST = [
     'http://localhost:5173',
     # Add more origins as needed
     'http://localhost:80',
-    'http://18.222.77.70'
+    'http://13.210.248.110'
 ]
 
 CORS_ALLOW_CREDENTIALS = True
