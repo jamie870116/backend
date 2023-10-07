@@ -1,6 +1,6 @@
 from pathlib import Path
 import os
-BASE_DIR = Path(_file_).resolve().parent
+BASE_DIR = Path(__file__).resolve().parent
 
 
 bind = "0.0.0.0:8000"  # 绑定的地址和端口
